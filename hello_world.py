@@ -1,1 +1,3 @@
-print("Hello World!")
+intro = "Hello, World!"
+
+print(intro)
